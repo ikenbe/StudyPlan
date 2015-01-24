@@ -1,4 +1,6 @@
 # 我的学习计划
+
+##学习内容与方向方法
 - 数据结构与算法
     + 书
         * 试读：数据结构与算法分析——C语言描述
@@ -13,7 +15,6 @@
 - 前端技术
     + 入门
         * > 过一遍 180 Websites in 80 Days
-        * > 0/180
     + Html
     + JS
     + CSS
@@ -23,8 +24,10 @@
     + Sublime Text
         * [Sublime Text 全程指南](http://zh.lucida.me/blog/sublime-text-complete-guide/)
     + Vim
-| So?
-> What?
->> Are we good?
->> 
->> 
+
+##日程与优先级
+
+1. 180 Websites in 80 Days
+    0/180
+2. Sublime Text 全程指南
+
