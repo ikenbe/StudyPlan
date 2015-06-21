@@ -22,8 +22,6 @@
     * 学习 LESS 或 SASS
       - [结束CSS，开始LESS吧！](http://blog.dreamgoon.com/2014/12/%E7%BB%93%E6%9D%9Fcss%EF%BC%8C%E5%BC%80%E5%A7%8Bless%E5%90%A7%EF%BC%81/)
 - IDE
-  + Sublime Text
-    * [Sublime Text 全程指南](http://zh.lucida.me/blog/sublime-text-complete-guide/)
   + Vim
     * [简明Vim练级攻略](http://www.path8.net/tn/archives/4876)
 
