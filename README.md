@@ -12,13 +12,15 @@
     * C Interfaces and Implementation
   + 练习
   + 资料
-    * 
+    *
 - 前端技术
   + 入门
     * > 过一遍 180 Websites in 80 Days
   + Html
   + JS
+    * JavaScript DOM 第2版
   + CSS
+    * [CSS Guidelines](http://cssguidelin.es)
     * 学习 LESS 或 SASS
       - [结束CSS，开始LESS吧！](http://blog.dreamgoon.com/2014/12/%E7%BB%93%E6%9D%9Fcss%EF%BC%8C%E5%BC%80%E5%A7%8Bless%E5%90%A7%EF%BC%81/)
 - IDE
@@ -34,4 +36,4 @@
 2. Sublime Text 全程指南
 
 
-!如果这句话很重要 *如果这句话很重要* 
+!如果这句话很重要 *如果这句话很重要*
