@@ -21,7 +21,7 @@ sitemap: false
     *
 - 前端技术
   + 入门
-    * > 过一遍 180 Websites in 80 Days
+    * 过一遍 180 Websites in 80 Days
   + Html
   + JS
     * JavaScript DOM 第2版
