@@ -19,11 +19,13 @@
   + Html
   + JS
     * JavaScript DOM 第2版
+    * [ES6 Standard](http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf)
+    * [Felix's NodeJS Guide](http://nodeguide.com/index.html)
   + CSS
     * [CSS Guidelines](http://cssguidelin.es)
     * 学习 LESS 或 SASS
       - [结束CSS，开始LESS吧！](http://blog.dreamgoon.com/2014/12/%E7%BB%93%E6%9D%9Fcss%EF%BC%8C%E5%BC%80%E5%A7%8Bless%E5%90%A7%EF%BC%81/)
-- IDE
+- Tools
   + Vim
     * [简明Vim练级攻略](http://www.path8.net/tn/archives/4876)
 
@@ -33,7 +35,6 @@
   [Sites](http://jenniferdewalt.com/)
   [Blog](http://blog.jenniferdewalt.com/)
   0/180
-2. Sublime Text 全程指南
 
 
 !如果这句话很重要 *如果这句话很重要*
