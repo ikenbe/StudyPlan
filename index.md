@@ -36,7 +36,7 @@ sitemap: false
 - IDE&Tools
   + Vim
     * [简明Vim练级攻略](http://www.path8.net/tn/archives/4876)
-  + [Atom](atom.io)
+  + [Atom](http://atom.io)
 
 <!--
 ##日程与优先级
