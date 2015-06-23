@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Study Plan"
+sitemap: false
+---  
+
 # 我的学习计划
 
 ##学习内容与方向方法
