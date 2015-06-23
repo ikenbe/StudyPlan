@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Study Plan"
 sitemap: false
 ---  
@@ -38,8 +38,11 @@ sitemap: false
     * [简明Vim练级攻略](http://www.path8.net/tn/archives/4876)
   + [Atom](atom.io)
 
+<!--
 ##日程与优先级
 
 1. 180 Websites in 80 Days
   [Sites](http://jenniferdewalt.com/)
   [Blog](http://blog.jenniferdewalt.com/)
+
+-->
