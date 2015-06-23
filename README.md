@@ -19,22 +19,35 @@
   + Html
   + JS
     * JavaScript DOM 第2版
+<<<<<<< HEAD
     * [ES6 Standard](http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf)
     * [Felix's NodeJS Guide](http://nodeguide.com/index.html)
+=======
+    * JavaScript高级程序设计 第3版
+    * JavaScript权威指南 v6
+    * JavaScript The Good Parts
+    * [JavaScript秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
+>>>>>>> origin/master
   + CSS
     * [CSS Guidelines](http://cssguidelin.es)
     * 学习 LESS 或 SASS
       - [结束CSS，开始LESS吧！](http://blog.dreamgoon.com/2014/12/%E7%BB%93%E6%9D%9Fcss%EF%BC%8C%E5%BC%80%E5%A7%8Bless%E5%90%A7%EF%BC%81/)
+<<<<<<< HEAD
 - Tools
+=======
+- IDE&Tools
+>>>>>>> origin/master
   + Vim
     * [简明Vim练级攻略](http://www.path8.net/tn/archives/4876)
+  + [Atom](atom.io)
 
 ##日程与优先级
 
 1. 180 Websites in 80 Days
   [Sites](http://jenniferdewalt.com/)
   [Blog](http://blog.jenniferdewalt.com/)
+<<<<<<< HEAD
   0/180
+=======
+>>>>>>> origin/master
 
-
-!如果这句话很重要 *如果这句话很重要*
